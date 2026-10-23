@@ -1,52 +1,90 @@
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
+# Hi there, I'm Thien! 👋
 
-<div align="left">
-# Hi there, I'm Thien!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=32&pause=1000&color=42C3B4&center=true&vCenter=true&width=600&height=65&lines=Welcome+to+my+GitHub+profile!;IT1+Student+at+HUST;Learning+%7C+Coding+%7C+Creating)](https://git.io/typing-svg)
 
-### Software Developer | Tech Enthusiast
+**IT1 Student @ Hanoi University of Science and Technology**
 
-## About Me
+*Aspiring Software Developer | Technology Enthusiast*
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=42c3b4&style=flat-square" alt="Profile views" />
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+</div>
 
-<br>
-- I'm passionate about Software Development.
-- I'm currently learning Web Development and AI.
-- I'm interested in building real-world projects.
-- I'm always looking to improve my coding skills.
+---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+```python
+class Thien:
+    def __init__(self):
+        self.university = "HUST"
+        self.major = "IT1 - Computer Science"
+        self.interests = [
+            "Software Development",
+            "Web Development",
+            "Artificial Intelligence"
+        ]
+        self.goal = "Keep learning and building!"
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+- 🎓 Studying **IT1 - Computer Science** at **Hanoi University of Science and Technology (HUST)**.
+- 💻 Passionate about software engineering and building practical applications.
+- 🌱 Exploring **Web Development, AI, and new technologies**.
+- 🚀 Continuously improving my problem-solving and programming skills.
 
-### Web Development
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## 🛠️ Tech Stack
 
-### Tools
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Programming Languages
 
-## Featured Projects
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&theme=dark" />
 
-### Task Management Website
-A web application for managing daily tasks.
+### Web Technologies
 
-- Tech: React, Node.js, MySQL
-- [View Project](https://github.com/USERNAME/PROJECT)
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
-## Connect With Me
-- Email: nguyenducthien805@gmail.com
+### Databases & Tools
 
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenducthien805@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code. Learn. Build. Repeat."
+
+Thanks for visiting my profile!
+
+</div>
