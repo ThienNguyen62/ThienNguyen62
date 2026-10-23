@@ -39,7 +39,5 @@ A web application for managing daily tasks.
 - [View Project](https://github.com/USERNAME/PROJECT)
 
 ## Connect With Me
-
-- GitHub: https://github.com/USERNAME
-- Email: your-email@example.com
+- Email: nguyenducthien805@gmail.com
 
