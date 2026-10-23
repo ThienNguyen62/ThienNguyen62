@@ -59,38 +59,21 @@
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<h2>🔥 GitHub Streak</h2>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=42C3B4&fire=42C3B4&currStreakLabel=42C3B4"
-  alt="GitHub Streak"
-  width="75%"
-/>
-
-</div>
 
 ---
 
 ## 🌐 Connect With Me
-
 <div align="center">
 
 <a href="mailto:nguyenducthien805@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91%E1%BB%A9c-thi%E1%BB%87n-7128a8336/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
-
 ---
 
 <div align="center">
