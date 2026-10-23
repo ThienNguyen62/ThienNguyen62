@@ -9,7 +9,6 @@
 
 **Aspiring Software Developer | Tech Enthusiast**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=42c3b4&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -64,11 +63,15 @@
 
 ## 📊 GitHub Statistics
 
+<h2>🔥 GitHub Streak</h2>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=42C3B4&icon_color=42C3B4" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=42C3B4" alt="Top Languages" />
+<img
+  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=42C3B4&fire=42C3B4&currStreakLabel=42C3B4"
+  alt="GitHub Streak"
+  width="75%"
+/>
 
 </div>
 
